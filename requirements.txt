@@ -11,7 +11,7 @@ codecov==2.0.15
 colorama==0.4.1
 coverage==4.5.4
 cryptography==2.7
-Django==2.2.4
+Django==2.2.8
 future==0.17.1
 idna==2.8
 importlib-metadata==0.19
