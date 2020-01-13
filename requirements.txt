@@ -37,7 +37,7 @@ pytest==5.1.1
 python-telegram-bot==11.1.0
 pytz==2019.2
 pywin32-ctypes==0.2.0
-requests==2.7.0
+requests==2.20.0
 requests-oauthlib==1.2.0
 rsa==4.0
 Schemer3==0.2.11.post1
